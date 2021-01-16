@@ -4,7 +4,7 @@ Celeste eserine katkıda bulunan herkese bize bu deneyimi yaşattıkları için 
 
 # Celeste Türkçe Yama
 
-<div style="text-align:center"><a href="http://www.celestegame.com/" target="_blank"><img src="https://github.com/harebuus/celeste-turkce-yama/blob/master/celeste-logo.png?raw=true" /></a></div>
+<div style="text-align:center"><a href="http://www.celestegame.com/" target="_blank"><img src="https://raw.githubusercontent.com/harebuus/celeste-turkce-yama/main/celeste-logo.png" /></a></div>
 
 ### Kurulum
 
